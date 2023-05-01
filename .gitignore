@@ -1,0 +1,11 @@
+# Ignore binary files
+*.exe
+
+# Ignore my groups trainings.
+Groups/
+
+# Ignore my code images.
+CodeSnap/
+
+# Ignore VSCode's folder
+.vscode/

@@ -1,3 +1,5 @@
+//* 202609853	Apr/18/2023 20:27UTC+7	Minh4893IT	A - Wasted Time	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

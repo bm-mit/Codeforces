@@ -1,38 +1,34 @@
+//* 204144934	May/01/2023 21:31UTC+7	Minh4893IT	A - Is It a Cat?	GNU C++14	Accepted	31 ms	200 KB
+
 #include <iostream>
 #include <regex>
 using namespace std;
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
     cin.tie(NULL);
+
     int t;
-    scanf("%d", &t);
+    cin >> t;
+
+    vector<char> word;
 
     while (t--)
     {
         int n;
-        scanf("%d\n", &n);
+        cin >> n;
 
         string s;
         cin >> s;
 
-        int c = 0;
-        char cs[] = {'m', 'e', 'o', 'w'};
-        int j = 0;
-        bool res = false;
-        for (int i = 1; i < s.length(); ++i)
-        {
-            if (tolower(s[i]) != tolower(s[i - 1]) && tolower(s[i]) == cs[j] && j < 4)
-            {
-                ++j;
-            }
-            if (j == 4)
-                res = true;
-            else
-                res = false;
-        }
+        word = vector<char>();
 
-        printf(res ? "YES\n" : "NO\n");
+        for (auto c : s)
+            if ((word.size() && word.back() != tolower(c)) || word.empty())
+                word.push_back(tolower(c));
+
+        printf(word == vector<char>{'m', 'e', 'o', 'w'} ? "YES\n" : "NO\n");
     }
 
     return 0;

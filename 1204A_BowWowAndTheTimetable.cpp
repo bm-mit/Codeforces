@@ -1,3 +1,5 @@
+//* 202720718	Apr/19/2023 21:27UTC+7	Minh4893IT	A - BowWow and the Timetable	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

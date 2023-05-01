@@ -1,3 +1,5 @@
+//* 202238394	Apr/15/2023 19:19UTC+7	Minh4893IT	A - 2048 Game	GNU C++17	Accepted	15 ms	100 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

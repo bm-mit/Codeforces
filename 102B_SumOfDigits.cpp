@@ -1,4 +1,4 @@
-//* 202821895	Apr/20/2023 21:11UTC+7	Minh4893IT	B - Caisa and Pylons	GNU C++17	Accepted	140 ms	400 KB
+//* 202822355	Apr/20/2023 21:16UTC+7	Minh4893IT	B - Sum of Digits	GNU C++17	Accepted	62 ms	300 KB
 
 #include <bits/stdc++.h>
 using namespace std;

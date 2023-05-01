@@ -7,5 +7,8 @@ Groups/
 # Ignore my code images.
 CodeSnap/
 
-# Ignore VSCode's folder
+# Ignore VSCode's folder.
 .vscode/
+
+# Ignore VSCode's temp files.
+tempCodeRunner.*

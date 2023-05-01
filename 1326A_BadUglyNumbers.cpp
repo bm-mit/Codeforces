@@ -1,3 +1,5 @@
+//* 202321409	Apr/16/2023 11:01UTC+7	Minh4893IT	A - Bad Ugly Numbers	GNU C++17	Accepted	31 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

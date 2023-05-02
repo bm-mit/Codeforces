@@ -1,3 +1,5 @@
+//* 201411004	Apr/09/2023 10:33UTC+7	Minh4893IT	A - Coins	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

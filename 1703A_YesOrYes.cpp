@@ -1,3 +1,5 @@
+//* 201260606	Apr/08/2023 20:22UTC+7	Minh4893IT	A - YES or YES?	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

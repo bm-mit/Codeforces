@@ -1,3 +1,5 @@
+//* 202817551	Apr/20/2023 20:27UTC+7	Minh4893IT	B - Burglar and Matches	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 #define all(x) (x.begin(), x.end())
 using namespace std;

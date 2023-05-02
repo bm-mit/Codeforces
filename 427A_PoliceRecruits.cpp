@@ -1,3 +1,5 @@
+//* 202468359	Apr/17/2023 17:01UTC+7	Minh4893IT	A - Police Recruits	GNU C++17	Accepted	93 ms	400 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

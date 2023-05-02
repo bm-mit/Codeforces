@@ -1,3 +1,5 @@
+//* 202690347	Apr/19/2023 16:25UTC+7	Minh4893IT	A - IQ Test	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

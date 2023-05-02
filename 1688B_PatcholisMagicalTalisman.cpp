@@ -1,3 +1,5 @@
+//* 202331309	Apr/16/2023 13:34UTC+7	Minh4893IT	B - Patchouli's Magical Talisman	GNU C++17	Accepted	77 ms	1600 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

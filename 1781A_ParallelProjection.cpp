@@ -1,3 +1,5 @@
+//* 201442579	Apr/09/2023 16:00UTC+7	Minh4893IT	A - Parallel Projection	GNU C++17	Accepted	31 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

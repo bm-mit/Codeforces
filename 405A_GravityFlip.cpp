@@ -1,3 +1,5 @@
+//* 200687969	Apr/04/2023 20:46UTC+7	Minh4893IT	A - Gravity Flip	GNU C++17	Accepted	15 ms	0 KB
+
 #include <iostream>
 #include <algorithm>
 using namespace std;

@@ -1,3 +1,5 @@
+//* 202787233	Apr/20/2023 14:45UTC+7	Minh4893IT	A - Greg's Workout	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

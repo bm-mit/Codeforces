@@ -1,3 +1,5 @@
+//* 200686106	Apr/04/2023 20:30UTC+7	Minh4893IT	A - Even Odds	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 using ll = long long int;

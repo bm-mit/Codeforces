@@ -1,3 +1,5 @@
+//* 200685088	Apr/04/2023 20:21UTC+7	Minh4893IT	A - Twins	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 #include <numeric>
 #include <algorithm>

@@ -1,3 +1,5 @@
+//* 202493512	Apr/17/2023 20:19UTC+7	Minh4893IT	A - Shaass and Oskols	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

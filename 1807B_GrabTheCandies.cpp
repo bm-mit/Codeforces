@@ -1,3 +1,5 @@
+//* 201838983	Apr/12/2023 20:54UTC+7	Minh4893IT	B - Grab the Candies	GNU C++17	Accepted	31 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

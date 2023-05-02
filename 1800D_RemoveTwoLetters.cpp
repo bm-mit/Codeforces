@@ -1,3 +1,5 @@
+//* 201263706	Apr/08/2023 20:53UTC+7	Minh4893IT	D - Remove Two Letters	GNU C++17	Accepted	46 ms	500 KB
+
 #include <iostream>
 using namespace std;
 

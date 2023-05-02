@@ -1,3 +1,5 @@
+//* 202326642	Apr/16/2023 12:29UTC+7	Minh4893IT	A - Minimums and Maximums	GNU C++17	Accepted	46 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 201949952	Apr/13/2023 21:24UTC+7	Minh4893IT	A - Make it Beautiful	GNU C++17	Accepted	31 ms	100 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

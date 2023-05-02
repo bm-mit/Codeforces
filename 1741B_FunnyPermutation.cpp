@@ -1,3 +1,5 @@
+//* 202368911	Apr/16/2023 20:04UTC+7	Minh4893IT	B - Funny Permutation	GNU C++17	Accepted	46 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

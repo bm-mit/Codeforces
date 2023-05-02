@@ -1,3 +1,5 @@
+//* 202597107	Apr/18/2023 18:34UTC+7	Minh4893IT	A - Valera and X	GNU C++17	Accepted	15 ms	300 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

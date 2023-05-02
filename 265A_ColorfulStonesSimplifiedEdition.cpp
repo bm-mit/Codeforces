@@ -1,3 +1,5 @@
+//* 202471195	Apr/17/2023 17:34UTC+7	Minh4893IT	A - Colorful Stones (Simplified Edition)	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

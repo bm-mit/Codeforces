@@ -1,3 +1,5 @@
+//* 202612108	Apr/18/2023 20:46UTC+7	Minh4893IT	A - Fancy Fence	GNU C++17	Accepted	0 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

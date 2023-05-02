@@ -1,3 +1,5 @@
+//* 202468969	Apr/17/2023 17:09UTC+7	Minh4893IT	A - Black Square	GNU C++17	Accepted	31 ms	300 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

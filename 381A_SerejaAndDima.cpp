@@ -1,3 +1,5 @@
+//* 202467665	Apr/17/2023 16:52UTC+7	Minh4893IT	A - Sereja and Dima	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

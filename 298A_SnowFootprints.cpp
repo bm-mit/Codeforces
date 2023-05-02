@@ -1,3 +1,5 @@
+//* 202718555	Apr/19/2023 21:10UTC+7	Minh4893IT	A - Snow Footprints	GNU C++17	Accepted	30 ms	100 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 202781371	Apr/20/2023 13:13UTC+7	Minh4893IT	A - Laptops	GNU C++17	Accepted	234 ms	800 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

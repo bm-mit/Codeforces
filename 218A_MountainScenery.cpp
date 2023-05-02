@@ -1,3 +1,5 @@
+//* 202681654	Apr/19/2023 14:07UTC+7	Minh4893IT	A - Mountain Scenery	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

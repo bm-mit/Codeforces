@@ -1,3 +1,5 @@
+//* 201257950	Apr/08/2023 19:56UTC+7	Minh4893IT	A - Almost Prime	GNU C++17	Accepted	62 ms	100 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

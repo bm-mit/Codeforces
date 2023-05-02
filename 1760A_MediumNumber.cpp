@@ -1,3 +1,5 @@
+//* 201211658	Apr/08/2023 11:47UTC+7	Minh4893IT	A - Medium Number	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

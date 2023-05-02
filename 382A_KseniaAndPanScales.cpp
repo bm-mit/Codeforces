@@ -1,3 +1,5 @@
+//* 202687080	Apr/19/2023 15:36UTC+7	Minh4893IT	A - Ksenia and Pan Scales	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

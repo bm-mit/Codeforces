@@ -1,3 +1,5 @@
+//* 201230164	Apr/08/2023 15:15UTC+7	Minh4893IT	B - Fortune Telling	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

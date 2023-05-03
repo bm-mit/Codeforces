@@ -1,3 +1,5 @@
+//* 202596022	Apr/18/2023 18:24UTC+7	Minh4893IT	A - Olesya and Rodion	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

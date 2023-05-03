@@ -1,3 +1,5 @@
+//* 200690059	Apr/04/2023 21:05UTC+7	Minh4893IT	A - Kefa and First Steps	GNU C++17	Accepted	31 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

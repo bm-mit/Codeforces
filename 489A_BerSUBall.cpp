@@ -1,3 +1,5 @@
+//* 201225534	Apr/08/2023 14:29UTC+7	Minh4893IT	B - BerSU Ball	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

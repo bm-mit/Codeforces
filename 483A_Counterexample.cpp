@@ -1,3 +1,5 @@
+//* 202607546	Apr/18/2023 20:07UTC+7	Minh4893IT	A - Counterexample	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long int;

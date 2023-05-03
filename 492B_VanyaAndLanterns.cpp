@@ -1,3 +1,5 @@
+//* 201223698	Apr/08/2023 14:12UTC+7	Minh4893IT	B - Vanya and Lanterns	GNU C++17	Accepted	31 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

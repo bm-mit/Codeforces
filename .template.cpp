@@ -6,6 +6,8 @@ using sint = signed int;
 #define ull unsigned ll
 #define int ll
 #define ss stringstream
+#define iss istringstream
+#define oss ostringstream
 #define uset unordered_set
 #define umap unordered_map
 #define vec vector

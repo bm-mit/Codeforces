@@ -1,3 +1,5 @@
+//* 202780837	Apr/20/2023 13:04UTC+7	Minh4893IT	A - Case of the Zeros and Ones	GNU C++17	Accepted	62 ms	500 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

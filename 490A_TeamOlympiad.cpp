@@ -1,3 +1,5 @@
+//* 202558223	Apr/18/2023 10:08UTC+7	Minh4893IT	A - Team Olympiad	GNU C++17	Accepted	31 ms	200 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

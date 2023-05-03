@@ -1,3 +1,5 @@
+//* 202570822	Apr/18/2023 13:32UTC+7	Minh4893IT	A - Keyboard	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

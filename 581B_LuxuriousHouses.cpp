@@ -59,7 +59,6 @@ void solve()
             max = arr[i];
             arr[i] = 0;
         }
-        appear[arr[i]] = true;
     }
 
     for (int i = 0; i < n; ++i)

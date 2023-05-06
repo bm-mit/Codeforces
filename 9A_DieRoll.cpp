@@ -1,3 +1,5 @@
+//* 202475346	Apr/17/2023 17:57UTC+7	Minh4893IT	A - Die Roll	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 202812731	Apr/20/2023 19:39UTC+7	Minh4893IT	B - Petya and Countryside	GNU C++17	Accepted	60 ms	4200 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

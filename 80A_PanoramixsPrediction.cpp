@@ -1,3 +1,5 @@
+//* 202606311	Apr/18/2023 19:57UTC+7	Minh4893IT	A - Panoramix's Prediction	GNU C++17	Accepted	30 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

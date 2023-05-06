@@ -1,4 +1,4 @@
-//* 202782414	Minh4893IT	950A - 20	GNU C++17	Accepted	15 ms	8 KB
+//* 202782414	Apr/20/2023 13:29UTC+7	Minh4893IT	A - Left-handers, Right-handers and Ambidexters	GNU C++17	Accepted	15 ms	0 KB
 
 #include <bits/stdc++.h>
 using namespace std;

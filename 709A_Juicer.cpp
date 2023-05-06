@@ -1,3 +1,5 @@
+//* 202495426	Apr/17/2023 20:34UTC+7	Minh4893IT	A - Juicer	GNU C++17	Accepted	171 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

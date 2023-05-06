@@ -1,3 +1,5 @@
+//* 202499924	Apr/17/2023 21:10UTC+7	Minh4893IT	A - Carrot Cakes	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 202570077	Apr/18/2023 13:21UTC+7	Minh4893IT	A - Oath of the Night's Watch	GNU C++17	Accepted	202 ms	400 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

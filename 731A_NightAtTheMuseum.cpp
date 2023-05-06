@@ -1,3 +1,5 @@
+//* 202469385	Apr/17/2023 17:14UTC+7	Minh4893IT	A - Night at the Museum	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

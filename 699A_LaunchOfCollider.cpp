@@ -1,3 +1,5 @@
+//* 202688679	Apr/19/2023 16:00UTC+7	Minh4893IT	A - Launch of Collider	GNU C++17	Accepted	389 ms	6400 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

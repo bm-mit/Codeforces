@@ -1,3 +1,5 @@
+//* 202571491	Apr/18/2023 13:41UTC+7	Minh4893IT	A - Is it rated?	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 202569537	Apr/18/2023 13:13UTC+7	Minh4893IT	A - Snacktower	GNU C++17	Accepted	421 ms	800 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

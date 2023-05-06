@@ -1,3 +1,5 @@
+//* 202598692	Apr/18/2023 18:48UTC+7	Minh4893IT	A - Arpa’s hard exam and Mehrdad’s naive cheat	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

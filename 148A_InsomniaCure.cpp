@@ -1,3 +1,5 @@
+//* 195021312	Feb/26/2023 13:45UTC+7	Minh4893IT	A - Insomnia cure	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 #include <vector>
 using namespace std;

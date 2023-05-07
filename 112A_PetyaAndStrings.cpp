@@ -1,3 +1,5 @@
+//* 194461548	Feb/21/2023 20:46UTC+7	Minh4893IT	A - Petya and Strings	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 #include <algorithm>
 using namespace std;

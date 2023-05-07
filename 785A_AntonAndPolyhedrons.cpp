@@ -1,3 +1,5 @@
+//* 195024198	Feb/26/2023 14:22UTC+7	Minh4893IT	A - Anton and Polyhedrons	GNU C++17	Accepted	405 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

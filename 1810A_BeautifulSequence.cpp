@@ -1,3 +1,5 @@
+//* 200577684	Apr/03/2023 21:43UTC+7	Minh4893IT	A - Beautiful Sequence	GNU C++17	Accepted	31 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

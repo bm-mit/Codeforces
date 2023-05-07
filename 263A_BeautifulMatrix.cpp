@@ -1,3 +1,5 @@
+//* 194445749	Feb/21/2023 18:23UTC+7	Minh4893IT	A - Beautiful Matrix	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

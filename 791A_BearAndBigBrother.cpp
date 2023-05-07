@@ -1,3 +1,5 @@
+//* 194464023	Feb/21/2023 21:05UTC+7	Minh4893IT	A - Bear and Big Brother	GNU C++17	Accepted	15 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 194444560	Feb/21/2023 18:10UTC+7	Minh4893IT	A - Next Round	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

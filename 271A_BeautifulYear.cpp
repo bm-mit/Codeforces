@@ -1,3 +1,5 @@
+//* 194578041	Feb/22/2023 21:23UTC+7	Minh4893IT	A - Beautiful Year	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

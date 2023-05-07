@@ -1,3 +1,5 @@
+//* 194572676	Feb/22/2023 20:35UTC+7	Minh4893IT	A - Anton and Danik	GNU C++17	Accepted	31 ms	300 KB
+
 #include <iostream>
 using namespace std;
 

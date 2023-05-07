@@ -1,3 +1,5 @@
+//* 195018624	Feb/26/2023 13:08UTC+7	Minh4893IT	A - Arrival of the General	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

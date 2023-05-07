@@ -1,3 +1,5 @@
+//* 194441056	Feb/21/2023 17:30UTC+7	Minh4893IT	A - Watermelon	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

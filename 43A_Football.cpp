@@ -1,3 +1,5 @@
+//* 195138625	Feb/27/2023 21:30UTC+7	Minh4893IT	A - Football	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>

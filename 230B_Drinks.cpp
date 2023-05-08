@@ -1,3 +1,5 @@
+//* 195016336	Feb/26/2023 12:37UTC+7	Minh4893IT	B - Drinks	GNU C++17	Accepted	30 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

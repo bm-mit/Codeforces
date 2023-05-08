@@ -1,3 +1,5 @@
+//* 200667848	Apr/04/2023 17:36UTC+7	Minh4893IT	A - Collecting Coins	GNU C++17	Accepted	0 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

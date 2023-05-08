@@ -1,3 +1,5 @@
+//* 195019133	Feb/26/2023 13:16UTC+7	Minh4893IT	A - Divisibility Problem	GNU C++17	Accepted	61 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

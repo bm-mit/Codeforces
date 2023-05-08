@@ -1,3 +1,5 @@
+//* 200582708	Apr/03/2023 22:27UTC+7	Minh4893IT	A - Calculating Function	GNU C++17	Accepted	15 ms	0 KB
+
 #include <cmath>
 #include <iostream>
 using namespace std;

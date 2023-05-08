@@ -1,3 +1,5 @@
+//* 195037797	Feb/26/2023 19:49UTC+7	Minh4893IT	A - Expression	GNU C++17	Accepted	15 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

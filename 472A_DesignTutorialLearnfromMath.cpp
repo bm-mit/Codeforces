@@ -1,3 +1,5 @@
+//* 200582033	Apr/03/2023 22:21UTC+7	Minh4893IT	A - Design Tutorial: Learn from Math	GNU C++17	Accepted	15 ms	1200 KB
+
 #include <iostream>
 #include <vector>
 using namespace std;

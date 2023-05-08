@@ -1,3 +1,5 @@
+//* 200666526	Apr/04/2023 17:22UTC+7	Minh4893IT	A - Floor Number	GNU C++17	Accepted	0 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//* 202187702	Apr/15/2023 16:24UTC+7	Minh4893IT	A - Yura's New Name	GNU C++17	Accepted	0 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

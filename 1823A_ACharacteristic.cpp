@@ -1,4 +1,4 @@
-//* 203682302	Apr/27/2023 21:50UTC+7	Minh4893IT	1823A - A-characteristic	GNU C++17	Accepted	0 ms	0 KB
+//* 203682302	Apr/27/2023 21:50UTC+7	Minh4893IT	A - A-characteristic	GNU C++17	Accepted	0 ms	0 KB
 
 #include <bits/stdc++.h>
 using namespace std;

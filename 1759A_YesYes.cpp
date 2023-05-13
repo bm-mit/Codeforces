@@ -1,3 +1,5 @@
+//* 202136905	Apr/15/2023 08:28UTC+7	Minh4893IT	A - Yes-Yes?	GNU C++17	Accepted	15 ms	100 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 int i = 0;

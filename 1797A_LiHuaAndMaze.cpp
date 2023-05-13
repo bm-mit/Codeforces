@@ -1,3 +1,5 @@
+//* 201277997	Apr/08/2023 21:22UTC+7	Minh4893IT	A - Li Hua and Maze	GNU C++17	Accepted	15 ms	0 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 

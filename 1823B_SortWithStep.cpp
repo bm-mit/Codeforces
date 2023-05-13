@@ -1,4 +1,4 @@
-//* 203687361	Apr/27/2023 22:01UTC+7	Minh4893IT	1823B - Sort with Step	GNU C++17	Accepted	62 ms	1600 KB
+//* 203687361	Apr/27/2023 22:01UTC+7	Minh4893IT	B - Sort with Step	GNU C++17	Accepted	62 ms	1600 KB
 
 #include <bits/stdc++.h>
 using namespace std;

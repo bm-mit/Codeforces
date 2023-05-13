@@ -1,3 +1,5 @@
+//* 200725558	Apr/04/2023 22:12UTC+7	Minh4893IT	A - Insert Digit	GNU C++17	Accepted	62 ms	500 KB
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

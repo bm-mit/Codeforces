@@ -14,10 +14,8 @@ using namespace std;
 #define GET(var) getline(cin, var)
 #define EACH(x, a) for (auto &x : a)
 #define IF(cond, t, f) (cond ? t : f)
-void OFILE(const char * finp, const char * fout)
-{
-    freopen(finp, "r", stdin), freopen(fout, "w", stdout);
-}
+#define OFILE(finp, fout) freopen(finp, "r", stdin), freopen(fout, "w", stdout)
+#define FAST_IO ios_base::sync_with_stdio(false), cin.tie()
 
 void solve()
 {
@@ -26,8 +24,7 @@ void solve()
 
 signed main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie();
+    FAST_IO;
 
     solve();
 

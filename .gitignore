@@ -12,6 +12,7 @@ CodeSnap/
 
 # Ignore VSCode's temp files.
 tempCodeRunner.*
+tempCodeRunnerFile.*
 
 # Ignore my files management program
 Manage/

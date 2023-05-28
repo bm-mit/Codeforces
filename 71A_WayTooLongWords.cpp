@@ -1,3 +1,5 @@
+//* 194441713	Feb/21/2023 17:39UTC+7	Minh4893IT	A - Way Too Long Words	GNU C++17	Accepted	15 ms	0 KB
+
 #include <iostream>
 using namespace std;
 

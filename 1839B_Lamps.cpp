@@ -19,13 +19,6 @@ using namespace std;
 #define OFILE(finp, fout) freopen(finp, "r", stdin), freopen(fout, "w", stdout)
 #define FAST_IO ios_base::sync_with_stdio(false), cin.tie()
 
-bool comp(pair<int, int> a, pair<int, int> b)
-{
-    if (a.first == b.first)
-        return a.second > b.second;
-    return a.first < b.first;
-}
-
 void solve()
 {
     int n;

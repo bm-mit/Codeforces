@@ -1,4 +1,4 @@
-//* 210401168	00:34:44	Minh4893IT	C - Sum in Binary Tree	GNU C++17	Accepted	46 ms	0 KB 
+//* 210401168	Jun/20/2023 22:09UTC+7	Minh4893IT	C - Sum in Binary Tree	GNU C++17	Accepted	61 ms	0 KB
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,6 +1,10 @@
 # Ignore binary files
 *.exe
 
+# Ignore I/O files
+*.inp
+*.out
+
 # Ignore my groups trainings.
 Groups/
 

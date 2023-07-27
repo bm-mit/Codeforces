@@ -20,3 +20,4 @@ tempCodeRunnerFile.*
 
 # Ignore my files management program
 Manage/
+.clean.sh

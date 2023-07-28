@@ -5,6 +5,9 @@
 *.inp
 *.out
 
+# Ignore Codeforces EDU
+Edu/
+
 # Ignore my groups trainings.
 Groups/
 

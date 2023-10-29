@@ -7,7 +7,7 @@ using namespace std;
 #define LLMAX INT64_MAX
 #define IF(cond, t, f) (cond ? t : f)
 #define OFILE(finp, fout) freopen(finp, "r", stdin), freopen(fout, "w", stdout)
-#define FAST_IO ios_base::sync_with_stdio(false), cin.tie()
+#define FAST_IO ios_base::sync_with_stdio(false), cin.tie(NULL)
 #define MULTI \
     int t;    \
     cin >> t; \
@@ -15,7 +15,7 @@ using namespace std;
 
 void solve()
 {
-    // Solution
+    
 }
 
 signed main()
